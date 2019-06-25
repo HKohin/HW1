@@ -1,0 +1,24 @@
+Note- Week 2 
+
+Revenue- whether or not cash received it is still recorded 
+Pay the labour through cash and not account payable
+Inventory- Completed product 
+Direct Material is the raw material  
+Net income is zeroed out and Net income(-ve sign) is put into Total Stockholders Equity(Balance/sheet)
+
+Operating- Accts Receivalble, Accts Payable, Inventory 
+Investing Activities- Fixed assets 
+Financing- Bank Notes, common stock, preferred stock, Paying Dividends 
+Reports the change in Cash Flow Statement 
+
+From Balance sheet to Cash Flow statement 
+--> For Assets - Multiply * -1
+--> For Liabilities - Liabilities & Stockholder * +1
+
+Report everything except cash from balancesheet 
+Cash in the end should matchn cash in the balancesheet 
+
+Cash Flow statement
+Start wtih Net Income 
+Then Depreciation (in negative)
+Chnage in Accounts Receivalable 
